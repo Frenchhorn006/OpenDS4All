@@ -1,6 +1,6 @@
 # Data Practices
 
-This set of resources on **data practices** is made available to OpenDS4All by [datapractices.org](https://datapractices.org) under the 
+This set of resources on **data practices** is being made available to OpenDS4All by [datapractices.org](https://datapractices.org) under the 
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) license, and contains
 knowledge from many experts and practitioners across the data ecosystem. 
 
