@@ -11,11 +11,11 @@ For now, [datapractices.org](https://datapractices.org) and [OpenDS4All](https:/
 ## Content
 
 ### Project Lifecycle
-### Sourcing Data
+#### Sourcing Data
 Data Scientist is the hottest new job title, and people with many different backgrounds are choosing to pivot their careers to become data practitioners. This lesson will help those coming from a developer background to understand the similarities and differences between computer science / software development and data science.
 * [Sourcing Data](https://datapractices.org/courseware/1_2.html)
 
-### Data Exploration
+#### Data Exploration
 Too often, many data practitioners dismiss their role in the data ecosystem because they aren’t writing code. Talented spreadsheet users, database admins, database admins, and a host of others all have the ability to contribute heavily to the data work within an organization. This lesson will cover how to be as impactful as possible, even if you aren’t a technical user.
 * [Data Exploration](https://datapractices.org/courseware/1_4.html)
 * [Analyze and Report](https://datapractices.org/courseware/1_5.html)
