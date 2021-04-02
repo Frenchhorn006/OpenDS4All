@@ -16,11 +16,11 @@ Project Lifecycle
 * [Analyze and Report](https://datapractices.org/courseware/1_5.html)
 
 Culture / Practice
-* [](https://datapractices.org/courseware/coming-soon.html)
-* [](https://datapractices.org/courseware/coming-soon.html)
-* [](https://datapractices.org/courseware/2_5.html)
-* [](https://datapractices.org/courseware/coming-soon.html)
-* [](https://datapractices.org/courseware/2_7.html)
+* [Moving from Computer Science to Data Science](https://datapractices.org/courseware/coming-soon.html)
+* [Data Science for people who don't code](https://datapractices.org/courseware/coming-soon.html)
+* [Data Visualization best practices](https://datapractices.org/courseware/2_5.html)
+* [Data Ethics 101](https://datapractices.org/courseware/coming-soon.html)
+* [SQL for non-technical people](https://datapractices.org/courseware/2_7.html)
 
 
 ## Release History
