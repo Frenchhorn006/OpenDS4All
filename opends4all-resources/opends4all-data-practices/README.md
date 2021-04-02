@@ -12,7 +12,7 @@ For now, [datapractices.org](https://datapractices.org) and [OpenDS4All](https:/
 
 ## Project Lifecycle
 ### Sourcing Data
-Data Scientist is the hottest new job title, and people with many different backgrounds are choosing to pivot their careers to become data practitioners. This module will help those coming from a developer background to understand the similarities and differences between computer science / software development and data science.
+Once you have planned out a data project it’s time to gather your resources. There are many things to consider, including where data, documentation, and additional team members can be sourced. This module will help you to understand how to evaluate data project resources including how to aggregate your existing data, the benefits of open data (both using and generating), the pros and cons of purchased data, and how to ensure that your data project can avoid costly pitfalls caused by problems around data provenance, data prep, or anything else.
 * [Sourcing Data](https://datapractices.org/courseware/1_2.html)
 
 ### Data Exploration
