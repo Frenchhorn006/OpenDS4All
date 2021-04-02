@@ -10,8 +10,14 @@ For now, [datapractices.org](https://datapractices.org) and [OpenDS4All](https:/
 
 ## Content
 
+
+Project Lifecycle
 * [Sourcing Data](https://datapractices.org/courseware/1_2.html)
 * [Data Exploration](https://datapractices.org/courseware/1_4.html)
+* [Analyze and Report](https://datapractices.org/courseware/1_5.html)
+
+Cultyre / Practice Curriculum
+
 
 ## Release History
 
