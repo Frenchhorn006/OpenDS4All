@@ -19,10 +19,12 @@ Data Scientist is the hottest new job title, and people with many different back
 Too often, many data practitioners dismiss their role in the data ecosystem because they aren’t writing code. Talented spreadsheet users, database admins, database admins, and a host of others all have the ability to contribute heavily to the data work within an organization. This lesson will cover how to be as impactful as possible, even if you aren’t a technical user.
 * [Data Exploration](https://datapractices.org/courseware/1_4.html)
 
-###Analysze and Report
+### Analysze and Report
 * [Analyze and Report](https://datapractices.org/courseware/1_5.html)
 
-Culture / Practice
+## Culture / Practice
+### Moving from Computer Science to Data Science
+This lesson will help you to understand how to build models and answer questions in a reproducible way and then deliver the results of that work to your target audience
 * [Moving from Computer Science to Data Science](https://datapractices.org/courseware/coming-soon.html)
 * [Data Science for people who don't code](https://datapractices.org/courseware/coming-soon.html)
 * [Data Visualization best practices](https://datapractices.org/courseware/2_5.html)
