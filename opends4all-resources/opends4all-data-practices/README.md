@@ -12,20 +12,22 @@ For now, [datapractices.org](https://datapractices.org) and [OpenDS4All](https:/
 
 ## Project Lifecycle
 ### Sourcing Data
-Data Scientist is the hottest new job title, and people with many different backgrounds are choosing to pivot their careers to become data practitioners. This lesson will help those coming from a developer background to understand the similarities and differences between computer science / software development and data science.
+Data Scientist is the hottest new job title, and people with many different backgrounds are choosing to pivot their careers to become data practitioners. This module will help those coming from a developer background to understand the similarities and differences between computer science / software development and data science.
 * [Sourcing Data](https://datapractices.org/courseware/1_2.html)
 
 ### Data Exploration
-Too often, many data practitioners dismiss their role in the data ecosystem because they aren’t writing code. Talented spreadsheet users, database admins, database admins, and a host of others all have the ability to contribute heavily to the data work within an organization. This lesson will cover how to be as impactful as possible, even if you aren’t a technical user.
+Too often, many data practitioners dismiss their role in the data ecosystem because they aren’t writing code. Talented spreadsheet users, database admins, database admins, and a host of others all have the ability to contribute heavily to the data work within an organization. This module will cover how to be as impactful as possible, even if you aren’t a technical user.
 * [Data Exploration](https://datapractices.org/courseware/1_4.html)
 
 ### Analysze and Report
+This module will help you to understand how to build models and answer questions in a reproducible way and then deliver the results of that work to your target audience
 * [Analyze and Report](https://datapractices.org/courseware/1_5.html)
 
 ## Culture / Practice
 ### Moving from Computer Science to Data Science
-This lesson will help you to understand how to build models and answer questions in a reproducible way and then deliver the results of that work to your target audience
+Data Scientist is the hottest new job title, and people with many different backgrounds are choosing to pivot their careers to become data practitioners. This module will help those coming from a developer background to understand the similarities and differences between computer science / software development and data science.
 * [Moving from Computer Science to Data Science](https://datapractices.org/courseware/coming-soon.html)
+
 * [Data Science for people who don't code](https://datapractices.org/courseware/coming-soon.html)
 * [Data Visualization best practices](https://datapractices.org/courseware/2_5.html)
 * [Data Ethics 101](https://datapractices.org/courseware/coming-soon.html)
