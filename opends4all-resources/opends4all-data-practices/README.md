@@ -32,9 +32,17 @@ This module will help you to understand how to build models and answer questions
 Data Scientist is the hottest new job title, and people with many different backgrounds are choosing to pivot their careers to become data practitioners. This module will help those coming from a developer background to understand the similarities and differences between computer science / software development and data science.
 * [Moving from Computer Science to Data Science](https://datapractices.org/courseware/coming-soon.html)
 
-* [Data Science for people who don't code](https://datapractices.org/courseware/coming-soon.html)
-* [Data Visualization best practices](https://datapractices.org/courseware/2_5.html)
+### Data Science for People who don't Code
+
+* [Data Science for People who don't Code](https://datapractices.org/courseware/coming-soon.html)
+
+### Data Visualization Best Practics
+* [Data Visualization Best Practices](https://datapractices.org/courseware/2_5.html)
+
+### Data Ethics 101
 * [Data Ethics 101](https://datapractices.org/courseware/coming-soon.html)
+
+### SQL for Non-Technical People
 * [SQL for non-technical people](https://datapractices.org/courseware/2_7.html)
 
 
