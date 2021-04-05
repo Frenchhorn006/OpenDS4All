@@ -8,6 +8,10 @@ knowledge from many experts and practitioners across the data ecosystem.
 
 For now, [datapractices.org](https://datapractices.org) and [OpenDS4All](https://github.com/odpi/OpenDS4All) will continue as two separate projects under [LF Data and AI](https://lfaidata.foundation/about/join/), but each project will reference relevant content in the other project and the communities will work together to support each other more closely.
 
+The following topology shows how __data practices__ content is __currently__ organized. This taxonomy is updated as new content is added to the project. 
+![taxonomy](assets/img/data_practices_taxonomy.png)
+Each category contains modules and each module consists of one or more of the following components:
+
 # Content
 
 ## Project Lifecycle
