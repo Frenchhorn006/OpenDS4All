@@ -19,7 +19,7 @@ Once you have planned out a data project it’s time to gather your resources. T
 Too often, many data practitioners dismiss their role in the data ecosystem because they aren’t writing code. Talented spreadsheet users, database admins, database admins, and a host of others all have the ability to contribute heavily to the data work within an organization. This module will cover how to be as impactful as possible, even if you aren’t a technical user.
 * [Data Exploration](https://datapractices.org/courseware/1_4.html)
 
-### Analysze and Report
+### Analyze and Report
 This module will help you to understand how to build models and answer questions in a reproducible way and then deliver the results of that work to your target audience
 * [Analyze and Report](https://datapractices.org/courseware/1_5.html)
 
